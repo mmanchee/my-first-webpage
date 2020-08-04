@@ -1,0 +1,28 @@
+h1 {
+  color: blue;
+  background: #0ff;
+  text-align: center;
+}
+
+h2 {
+  color: #000fff;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+em {
+  color: purple;
+}
+
+strong {
+  border-color: pink;
+}
